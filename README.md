@@ -17,6 +17,7 @@ Here are the technologies I use in my projects:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 #### **Frontend Development**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) 
 ![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
