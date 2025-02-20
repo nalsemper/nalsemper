@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Nal Semper Sempai Tiempo  
+## Hi there! 👋 I'm Nal Semper Tiempo  
 
 💻 **IT Specialist | Developer | Tech Enthusiast**  
 
