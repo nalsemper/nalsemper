@@ -37,9 +37,6 @@ Here are the technologies I use in my projects:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Ren'Py (RenJS)](https://img.shields.io/badge/RenJS-FF7F50?style=for-the-badge&logo=renpy&logoColor=white)  
 
-### 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalsemper&layout=compact&theme=dark)  
-![Nal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalsemper&show_icons=true&theme=dark)  
 
 
 ### 📫 How to Reach Me  
